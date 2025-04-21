@@ -15,3 +15,15 @@ Link: https://www.kaggle.com/datasets/chibuzornwachukwu/crime-west-africa
 
 ### Link to App
 https://westafricaterrorismdataapp-atjp3annhi8to6yoekwcaa.streamlit.app/
+
+### Screenshot of App
+
+![Image](https://github.com/user-attachments/assets/cea8138e-c8fb-4217-99f2-c5c1d023789e)
+
+![Image](https://github.com/user-attachments/assets/fdd0e878-ece7-442a-815d-71fced98c596)
+
+![Image](https://github.com/user-attachments/assets/e2d54d3a-fd77-40ab-9eea-1823ec148505)
+
+![Image](https://github.com/user-attachments/assets/fa845b3f-1a90-40fd-bcc4-0fece3e9a451)
+
+![Image](https://github.com/user-attachments/assets/bcf387ac-f7f6-415b-90df-865c092cb38c)
