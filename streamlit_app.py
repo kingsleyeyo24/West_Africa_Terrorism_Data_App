@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Load the Excel file
-df = pd.read_excel(r"C:\Users\KINGLEY EYO\Documents\new_crime_WA.xlsx")
+# The raw GitHub URL to the Excel file
+url = "https://raw.githubusercontent.com/kingsleyeyo24/West_Africa_Terrorism_Data_App/main/new_crime_WA.xlsx"
 
 # Ensure Date column is datetime format
 df["Date"] = pd.to_datetime(df["Date"])
