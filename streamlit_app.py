@@ -5,6 +5,9 @@ import plotly.express as px
 # The raw GitHub URL to the Excel file
 url = "https://raw.githubusercontent.com/kingsleyeyo24/West_Africa_Terrorism_Data_App/main/new_crime_WA.xlsx"
 
+# Load the file using pandas
+df = pd.read_excel(url)
+
 # Ensure Date column is datetime format
 df["Date"] = pd.to_datetime(df["Date"])
 
